@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/303_Java_Lessons.iml" filepath="$PROJECT_DIR$/.idea/303_Java_Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-01-intro-to-java/lesson-01-intro-to-java.iml" filepath="$PROJECT_DIR$/lessons/lesson-01-intro-to-java/lesson-01-intro-to-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-02-variables-types-operators/lesson-02-variables-types-operators.iml" filepath="$PROJECT_DIR$/lessons/lesson-02-variables-types-operators/lesson-02-variables-types-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-03-strings-wrappers/lesson-03-strings-wrappers.iml" filepath="$PROJECT_DIR$/lessons/lesson-03-strings-wrappers/lesson-03-strings-wrappers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-04-control-flow/lesson-04-control-flow.iml" filepath="$PROJECT_DIR$/lessons/lesson-04-control-flow/lesson-04-control-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-05-loops/lesson-05-loops.iml" filepath="$PROJECT_DIR$/lessons/lesson-05-loops/lesson-05-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-06-arrays/lesson-06-arrays.iml" filepath="$PROJECT_DIR$/lessons/lesson-06-arrays/lesson-06-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-07-array-processing/lesson-07-array-processing.iml" filepath="$PROJECT_DIR$/lessons/lesson-07-array-processing/lesson-07-array-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-08-classes-methods/lesson-08-classes-methods.iml" filepath="$PROJECT_DIR$/lessons/lesson-08-classes-methods/lesson-08-classes-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-09-encapsulation-inheritance/lesson-09-encapsulation-inheritance.iml" filepath="$PROJECT_DIR$/lessons/lesson-09-encapsulation-inheritance/lesson-09-encapsulation-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-10-interfaces-polymorphism/lesson-10-interfaces-polymorphism.iml" filepath="$PROJECT_DIR$/lessons/lesson-10-interfaces-polymorphism/lesson-10-interfaces-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-11-collections-generics/lesson-11-collections-generics.iml" filepath="$PROJECT_DIR$/lessons/lesson-11-collections-generics/lesson-11-collections-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-12-exception-handling/lesson-12-exception-handling.iml" filepath="$PROJECT_DIR$/lessons/lesson-12-exception-handling/lesson-12-exception-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-13-file-io/lesson-13-file-io.iml" filepath="$PROJECT_DIR$/lessons/lesson-13-file-io/lesson-13-file-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson-14-lambdas-streams-review/lesson-14-lambdas-streams-review.iml" filepath="$PROJECT_DIR$/lessons/lesson-14-lambdas-streams-review/lesson-14-lambdas-streams-review.iml" />
+    </modules>
+  </component>
+</project>
