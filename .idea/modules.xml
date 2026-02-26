@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/303_Java_Lessons.iml" filepath="$PROJECT_DIR$/.idea/303_Java_Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJavaBasics/CoreJavaBasics.iml" filepath="$PROJECT_DIR$/CoreJavaBasics/CoreJavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessons/lesson-01-intro-to-java/lesson-01-intro-to-java.iml" filepath="$PROJECT_DIR$/lessons/lesson-01-intro-to-java/lesson-01-intro-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessons/lesson-02-variables-types-operators/lesson-02-variables-types-operators.iml" filepath="$PROJECT_DIR$/lessons/lesson-02-variables-types-operators/lesson-02-variables-types-operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessons/lesson-03-strings-wrappers/lesson-03-strings-wrappers.iml" filepath="$PROJECT_DIR$/lessons/lesson-03-strings-wrappers/lesson-03-strings-wrappers.iml" />
