@@ -44,6 +44,6 @@ public class Main {
         System.out.println(car instanceof Vehicle);       // true
         System.out.println(moto instanceof Vehicle);      // true
         System.out.println(car instanceof Car);            // true
-        System.out.println(car instanceof Motorcycle);     // false
+      //  System.out.println(car instanceof Motorcycle);     // false
     }
 }
